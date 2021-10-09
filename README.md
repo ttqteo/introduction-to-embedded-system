@@ -1,5 +1,5 @@
 # Introduction to Embedded Systems Software and Development Environments
-[Coursera Link] (https://www.coursera.org/learn/introduction-embedded-systems)
+[Coursera Link](https://www.coursera.org/learn/introduction-embedded-systems)
 
 ## Week 1
 ### Learning Objective
